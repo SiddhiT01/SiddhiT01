@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm [SIDDHI TANAWADE]!</h1>
 <p align="center">
   🌍 Data Explorer | 📊 Visual Storyteller | 🔍 Insight Hunter<br>
-  🎓 MS in Data Science | 💼 Ex-TCS | 🔧 Currently @ BT (Retail Advisor)<br>
+  🎓 MS in Data Science | 💼 Ex-TCS | 🔧 Currently Data Analyst @Experiencely and @British Telecommunications <br>
   📍 Based in United Kingdom 🇬🇧 | Originally from India 🇮🇳
 </p>
 
@@ -45,7 +45,7 @@
 
 ## 📂 Explore My Projects
 
-🔎 Feel free to check out my data projects in the [Repositories tab](https://github.com/your-username?tab=repositories).  
+🔎 Feel free to check out my data projects in the [Repositories tab](https://github.com/SiddhiT01?tab=repositories).  
 You’ll find real-world datasets, dashboards, and analytics work using **SQL**, **Power BI**, **Python**, and more!
 
 ---
